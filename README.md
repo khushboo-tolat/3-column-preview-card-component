@@ -8,4 +8,4 @@ URL: [3-column preview card component](https://3-column-preview-card-component-k
 
 - Semantic HTML5 markup
 - Sass
-- Mobile-first workflow\
+- Mobile-first workflow
